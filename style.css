@@ -1,4 +1,9 @@
-/* .tranform{
-    position: absolute !important;
-    left:38% !important;
-} */
+.on{
+    border: solid transparent!important;
+    border-radius: 20px 0px 0px 20px !important;
+    
+}
+.off{
+    border: solid transparent!important;
+    border-radius: 0px 20px 20px 0px !important;
+}
