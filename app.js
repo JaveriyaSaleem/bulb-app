@@ -4,5 +4,5 @@ document.getElementById('onBtn').addEventListener("click",function(){
 })
 
 document.getElementById('offBtn').addEventListener("click",function(){
-    img.src  = "image/Bulb off.png"
+    img.src  = "image/bulb off.png"
 })
